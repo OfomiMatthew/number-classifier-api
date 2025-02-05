@@ -2,7 +2,7 @@
 
 A REST API that classifies numbers and returns mathematical properties along with interesting facts. Built with Django REST Framework.
 
-- [Deployment](https://img.shields.io/badge/Deployed-Heroku-blue)
+- [Live Endpoint](https://number-classifier-api.vercel.app/api/classify-number/?number=371)
 - [Github Repo](https://github.com/OfomiMatthew/number-classifier-api)
 
 
@@ -29,8 +29,8 @@ A REST API that classifies numbers and returns mathematical properties along wit
 ### Local Setup
 ```bash
 # Clone repository
-git clone https://github.com/your-username/number-classification-api.git
-cd number-classification-api
+git clone https://github.com/OfomiMatthew/number-classifier-api.git
+cd number-classifier-api
 
 # Create virtual environment
 python -m venv venv
