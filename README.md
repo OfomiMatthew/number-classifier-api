@@ -3,6 +3,7 @@
 A REST API that classifies numbers and returns mathematical properties along with interesting facts. Built with Django REST Framework.
 
 [Deployment](https://img.shields.io/badge/Deployed-Heroku-blue)
+[Github Repo](https://github.com/OfomiMatthew/number-classifier-api)
 
 
 ## Features ✨
