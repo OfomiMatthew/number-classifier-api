@@ -2,7 +2,7 @@
 
 A REST API that classifies numbers and returns mathematical properties along with interesting facts. Built with Django REST Framework.
 
-[![Deployment](https://img.shields.io/badge/Deployed-Heroku-blue)](your-heroku-url)
+[Deployment](https://img.shields.io/badge/Deployed-Heroku-blue)](your-heroku-url)
 
 
 ## Features ✨
